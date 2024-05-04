@@ -1,3 +1,4 @@
+#Class Work
 1
 # tst = 5
 # if tst > 5:
@@ -21,4 +22,6 @@
 # if len(tst) < 6 & len(tst) > 0:
 #     print("true")
 # else:
-#     print("false")
+#     print("false")'
+
+#Home work
