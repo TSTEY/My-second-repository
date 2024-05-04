@@ -25,3 +25,10 @@
 #     print("false")'
 
 #Home work
+x = 123
+#1
+print("home work")
+#2
+print("I did second homework")
+#3
+print("I didn't my third home work")
